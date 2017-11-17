@@ -33,6 +33,7 @@ https://en.wikipedia.org/wiki/End-to-end_encryption
 
 Java DES Encryption:
 https://www.mkyong.com/java/jce-encryption-data-encryption-standard-des-tutorial/
+http://www.pracspedia.com/INS/DES-java.html
 
 Python Chat Client:
 https://github.com/keyan/python-socket-chat
